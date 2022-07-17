@@ -1,3 +1,2 @@
-# BouncerGame
- Projekat iz predmeta Projektovanje računarskih igara
- Unity i C#
+# BouncerGame 
+Projekat iz predmeta Projektovanje računarskih igara uz upotrebu Unity i C#
